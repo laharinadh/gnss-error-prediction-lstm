@@ -1,0 +1,19 @@
+==============================
+Dataset: GEO
+RMSE: 15.159796642859002
+Samples: 74
+Shapiro p-value: 0.25069819780545655
+Residuals follow normal distribution ✔
+
+==============================
+Dataset: MEO
+RMSE: 0.6925191071275152
+Samples: 43
+Shapiro p-value: 0.5553448139987758
+Residuals follow normal distribution ✔
+
+==============================
+FINAL SUMMARY
+==============================
+GEO  p-value = 0.25070  -> PASS ✔
+MEO  p-value = 0.55534  -> PASS ✔
